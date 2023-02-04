@@ -21,4 +21,6 @@ def caballos():
     
     return posibilidades
 
-print(caballos())
+if __name__ == '__main__':
+    # Probamos la función
+    print(caballos())
